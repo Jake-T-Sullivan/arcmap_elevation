@@ -1,7 +1,7 @@
 import requests 
 import json  
 import pandas as pd
-api_key = "AIzaSyD7NE47irCdQmHia6s9GsPxIUZj_zlHtVE"
+api_key = 
 
 url = "https://maps.googleapis.com/maps/api/elevation/json?locations="
 
